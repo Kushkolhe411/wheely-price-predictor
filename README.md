@@ -11,12 +11,14 @@ Welcome to the **Wheely Price Predictor** project! This web application predicts
 
 ---
 
-## ⚙️ Technologies Used
-- **Frontend:** HTML, CSS, Bootstrap, AOS Animation Library
-- **Backend:** Flask (Python)
-- **Machine Learning:** Linear Regression
-- **Version Control:** Git & GitHub
-
+## 🛠️ **Technologies Used**
+| **Category**       | **Technologies**               |
+|---------------------|--------------------------------|
+| **Backend**        | Flask (Python)                 |
+| **Machine Learning**| Linear Regression             |
+| **Frontend**       | HTML5, CSS3, Bootstrap         |
+| **Version Control**| Git & GitHub                   |
+| **Data Source**    | Cleaned Car Dataset (`.csv`)   |
 ---
 
 ## 💻 Installation Steps
