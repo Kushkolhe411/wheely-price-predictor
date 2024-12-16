@@ -30,10 +30,10 @@ Welcome to the **Wheely Price Predictor** project! This web application predicts
 ![Home Page](static/css/images/home.jpeg)
 
 ### 💡 **EMI Calculator**
-![EMI Calculator](templates/EMI.html)
+![EMI Calculator](static/css/images/emi.jpeg)
 
 ### 👤 **Profile Page**
-![Profile Page](static/css/images/profile.png)
+![Profile Page](static/css/images/profile.jpeg)
 
 ### 🔐 **Login Page**
 ![Login Page](static/css/images/login.jpeg)
