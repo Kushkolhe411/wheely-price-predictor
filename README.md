@@ -21,6 +21,25 @@ Welcome to the **Wheely Price Predictor** project! This web application predicts
 | **Data Source**    | Cleaned Car Dataset (`.csv`)   |
 ---
 
+## 🖥️ **Screenshots**
+
+### 🎯 **Landing Page**
+![Landing Page](static/css/images/landing.jpeg)
+
+### 📊 **Prediction Page**
+![Home Page](static/css/images/home.jpeg)
+
+### 💡 **EMI Calculator**
+![EMI Calculator](templates/EMI.html)
+
+### 👤 **Profile Page**
+![Profile Page](static/css/images/profile.png)
+
+### 🔐 **Login Page**
+![Login Page](static/css/images/login.jpeg)
+
+---
+
 ## 💻 Installation Steps
 1. Clone the repository:
    ```bash
